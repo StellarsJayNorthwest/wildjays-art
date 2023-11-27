@@ -1,0 +1,12 @@
+.floatingtext {
+    display: flex;
+    align-items: center;
+}
+
+.textonright {
+    margin-left: 20px
+}
+
+.textonleft {
+    margin-right: 20px
+}

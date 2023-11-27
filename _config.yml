@@ -28,7 +28,7 @@ url: "https://stellarsjaynorthwest.github.io" # the base hostname & protocol for
 twitter_username:
 github_username:
 
-# Build settings
+# Build settings.
 theme: minima
 plugins:
   - jekyll-feed
