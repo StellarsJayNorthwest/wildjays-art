@@ -2,3 +2,11 @@
   display: flex;
   align-items: center;
 }
+
+.padright {
+  padding: 0px 10px 0px 0px
+}
+
+.padleft  {
+  padding: 0px 0px 0px 10px
+}
