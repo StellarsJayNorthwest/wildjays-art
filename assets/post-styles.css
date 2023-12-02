@@ -4,9 +4,13 @@
 }
 
 .padright {
-  padding: 0px 10px 0px 0px
+  padding: 0px 10px 0px 0px;
 }
 
 .padleft  {
-  padding: 0px 0px 0px 10px
+  padding: 0px 0px 0px 10px;
+}
+
+.padrightimg {
+  padding: 0px 5px 0px 0px;
 }
