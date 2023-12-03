@@ -3,14 +3,29 @@
   align-items: center;
 }
 
-.padright {
-  padding: 0px 10px 0px 0px;
+.centercontent {
+  margin-top: auto;
+  margin-bottom: auto;
+  text-align: center;
 }
 
-.padleft  {
-  padding: 0px 0px 0px 10px;
+img.marginonright {
+  margin: 0px 5px 0px 0px;
 }
 
-.padrightimg {
-  padding: 0px 5px 0px 0px;
+img.centered {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.gallerycontainer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.galleryinner {
+  display: inline-block;
 }
