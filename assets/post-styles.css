@@ -19,16 +19,7 @@ img.centered {
   margin-right: auto;
 }
 
-.gallerycontainer {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-.galleryinner {
-  display: inline-block;
-}
+/* Start CSS gallery elements. */
 
 div.gallery {
   border: 1px solid gray;
@@ -47,6 +38,7 @@ div.description {
   padding: 5px;
   text-align: center;
   font-size: smaller;
+  font-style: italic;
 }
 
 * {
@@ -56,13 +48,13 @@ div.description {
 .responsive {
   padding: 0 3px;
   float: left;
-  width: 49.999%;
+  width: 49.99%;
 }
 
 @media only screen and (max-width: 700px) {
   .responsive {
-    width: 49.99999%;
-    margin: 6px 0;
+    width: 49.99%;
+    margin: 3px 0;
   }
 }
 
@@ -77,3 +69,5 @@ div.description {
   display: table;
   clear: both;
 }
+
+/* End CSS gallery elements. */

@@ -29,44 +29,26 @@ We ate our sandwiches back at Pray Lake, hoping to see more of the moose. The mo
 
 {: style="text-align:center"}
 ![Running Eagle Falls]({{ site.baseurl }}/assets/2022/11/NZ7_2576-1024x823.jpg){: .centered width="500px"}
-*Bighorn Sheep at the Pray Lake campground*
+*Bighorn sheep at the Pray Lake campground*
 
 On the drive back to our cabin, we stopped at Cascadilla River Access to admire the fall colors along the river. Autumn was a wonderful time to visit Glacier National Park, and we hope to return for more adventures soon.
 
 {: style="text-align:center"}
 ![Running Eagle Falls]({{ site.baseurl }}/assets/2022/11/PXL_20221012_214932153-1024x833.jpg){: .centered width="500px"}
-*Taking photos of the fall foliage along the Cascadilla River*
+*Fall foliage along the Cascadilla River*
 
 ---
 <br>
-<div class="gallerycontainer">
-  <div>
-    <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2386.jpg" height="450px" title="" class="marginonright">
-  </div>
-  <div>
-    <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg" height="450px" title="">
-  </div>
-</div>
-
----
-<br>
-
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="{{ site.baseurl }}/assets/2022/11/NZ7_2386.jpg">
-      <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2386.jpg" alt="Cinque Terre">
-    </a>
+    <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2386.jpg" alt="Cinque Terre">
     <div class="description">Fall colors on the shore of Two Medicine Lake</div>
   </div>
 </div>
-
 <div class="responsive">
   <div class="gallery">
-    <a target="_blank" href="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg">
-      <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg" alt="Forest">
-    </a>
+    <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg" alt="Forest">
     <div class="description">Sinopah Mountain and Two Medicine Lake</div>
   </div>
 </div>
-
 <div class="clearfix"></div>
