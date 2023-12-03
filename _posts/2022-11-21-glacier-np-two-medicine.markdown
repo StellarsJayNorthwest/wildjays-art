@@ -4,8 +4,7 @@ title: 'Glacier National Park: Two Medicine'
 date: 2022-11-21 14:02:58.000000000 -08:00
 categories: adventure hike
 ---
-
-<link rel="stylesheet" href="{{ site.baseurl }}/assets/post-styles.css">
+<link rel="stylesheet" href="{{ site.baseurl }}/post-styles.css">
 
 Running Eagle Falls was our first stop in the Two Medicine region. It was a short trek to the falls, which are named after a woman and war chief born into the Piikáni Piegan tribe of the Blackfeet Nation. The waterfall emerges from a sinkhole hidden behind a natural bridge above the creek, and Rising Wolf Mountain towers over the picturesque scene. Next, we stopped at Two Medicine Lake to take pictures of the iconic Sinopah Mountain. Sinopah is often called the crowned jewel of the Two Medicine region, and its name means "kit fox" in the Blackfeet language.
 
@@ -39,16 +38,16 @@ On the drive back to our cabin, we stopped at Cascadilla River Access to admire 
 
 ---
 <br>
-<div class="responsive">
-  <div class="gallery">
-    <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2386.jpg" alt="Cinque Terre">
+<div class="galleryouter">
+  <div class="galleryinner">
+    <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2386.jpg" alt="Fall colors on the shore of Two Medicine Lake">
     <div class="description">Fall colors on the shore of Two Medicine Lake</div>
   </div>
 </div>
-<div class="responsive">
-  <div class="gallery">
-    <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg" alt="Forest">
+<div class="galleryouter">
+  <div class="galleryinner">
+    <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg" alt="Sinopah Mountain and Two Medicine Lake">
     <div class="description">Sinopah Mountain and Two Medicine Lake</div>
   </div>
 </div>
-<div class="clearfix"></div>
+<div class="endgallery"></div>

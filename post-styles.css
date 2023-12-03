@@ -21,21 +21,13 @@ img.centered {
 
 /* Start CSS gallery elements. */
 
-div.gallery {
-  border: 1px solid gray;
-}
-
-div.gallery:hover {
-  border: 1px solid black;
-}
-
-div.gallery img {
+div.galleryinner img {
   width: 100%;
   height: auto;
 }
 
 div.description {
-  padding: 5px;
+  padding: 1px;
   text-align: center;
   font-size: smaller;
   font-style: italic;
@@ -45,26 +37,26 @@ div.description {
   box-sizing: border-box;
 }
 
-.responsive {
+.galleryouter {
   padding: 0 3px;
   float: left;
   width: 49.99%;
 }
 
 @media only screen and (max-width: 700px) {
-  .responsive {
+  .galleryouter {
     width: 49.99%;
     margin: 3px 0;
   }
 }
 
 @media only screen and (max-width: 500px) {
-  .responsive {
+  .galleryouter {
     width: 100%;
   }
 }
 
-.clearfix:after {
+.endgallery:after {
   content: "";
   display: table;
   clear: both;

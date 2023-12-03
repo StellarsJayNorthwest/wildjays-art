@@ -21,7 +21,7 @@
 title: Wild Jays - The Adventures of Two Jays
 email: stellarsjaynorthwest@pobox.com
 description: >- # this means to ignore newlines until "baseurl:"
-  This blog is a project between two Jays: Jeff and Jenna. Here we
+  This site is a project between two Jays: Jeff and Jenna. Here we
   share our adventures in the wilds through writing and photography. 
 baseurl: "/wildjays-art" # the subpath of your site, e.g. /blog
 url: "https://stellarsjaynorthwest.github.io" # the base hostname & protocol for your site, e.g. http://example.com
