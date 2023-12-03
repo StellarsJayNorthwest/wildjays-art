@@ -47,3 +47,26 @@ On the drive back to our cabin, we stopped at Cascadilla River Access to admire 
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg" height="450px" title="">
   </div>
 </div>
+
+---
+<br>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl }}/assets/2022/11/NZ7_2386.jpg">
+      <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2386.jpg" alt="Cinque Terre">
+    </a>
+    <div class="description">Fall colors on the shore of Two Medicine Lake</div>
+  </div>
+</div>
+
+<div class="responsive">
+  <div class="gallery">
+    <a target="_blank" href="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg">
+      <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg" alt="Forest">
+    </a>
+    <div class="description">Sinopah Mountain and Two Medicine Lake</div>
+  </div>
+</div>
+
+<div class="clearfix"></div>
