@@ -16,7 +16,7 @@ Our trek will take us across Humpback Creek and along the western slope of Silve
 {: style="text-align:center"}
 ![Waterfalls]({{ site.baseurl }}/assets/2021/09/NZ7_3300-1-777x1024.jpg){: .centered width="400px"}
 
-In less than a mile, we cross over the Iron Horse Trail and enter a cathedralic, old-growth forest. Mushrooms cling to trees and bloom out of fallen logs. We can hear the rush of wind and glimpse puzzle pieces of sky through the canopy of leaves. Along the trail, we marvel at this ingenious feat of trail-crafting: a massive fallen tree has been repurposed as a bridge with hand-crafted steps running the full length of trunk.</p>
+In less than a mile, we cross over the Iron Horse Trail and enter a cathedralic, old-growth forest. Mushrooms cling to trees and bloom out of fallen logs. We can hear the rush of wind and glimpse puzzle pieces of sky through the canopy of leaves. Along the trail, we marvel at this ingenious feat of trail-crafting: a massive fallen tree has been repurposed as a bridge with hand-crafted steps running the full length of trunk.
 
 {: style="text-align:center"}
 ![Log bridge]({{ site.baseurl }}/assets/2021/09/NZ7_3309-1024x749.jpg){: .centered width="400px"}
@@ -54,7 +54,7 @@ On our way down the trail, we had a closer look at the many fungi. I've started 
 {: style="text-align:center"}
 ![More fungus]({{ site.baseurl }}/assets/2021/09/NZ7_3369-1024x780.jpg){: .centered width="300px"}
 
-From mushrooms to pikas to grandeurs of geology, Annette Lake is a great adventure! Hopefully we'll get a few more fall hikes before the snows come. Happy September!</p>
+From mushrooms to pikas to grandeurs of geology, Annette Lake is a great adventure! Hopefully we'll get a few more fall hikes before the snows come. Happy September!
 
 {: style="text-align:center"}
 ![Red leaves]({{ site.baseurl }}/assets/2021/09/NZ7_3334-1024x795.jpg){: .centered width="400px"}

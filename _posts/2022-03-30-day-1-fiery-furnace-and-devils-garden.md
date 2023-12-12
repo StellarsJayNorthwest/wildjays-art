@@ -16,7 +16,7 @@ In the orientation, they tell you to expect to get lost. GPS doesn’t work in t
 {: style="text-align:center"}
 ![Fiery furnace]({{ site.baseurl }}/assets/2022/03/PXL_20220309_174746433.jpg){: .centered width="500px"}
 
-In the afternoon, we hiked to Landscape Arch, the longest arch in North America (306ft, 93.3 meters). Later, at Sand Dune Arch, the sky darkened and it began hailing. The dramatic weather continued as we crossed a meadow to Broken Arch loop, which is not broken but has a large crack at its apex. Several of the park's arches have fallen in recent years, a reminder of how lucky we are to witness these geological marvels.</p>
+In the afternoon, we hiked to Landscape Arch, the longest arch in North America (306ft, 93.3 meters). Later, at Sand Dune Arch, the sky darkened and it began hailing. The dramatic weather continued as we crossed a meadow to Broken Arch loop, which is not broken but has a large crack at its apex. Several of the park's arches have fallen in recent years, a reminder of how lucky we are to witness these geological marvels.
 
 {: style="text-align:center"}
 ![Landscape Arch]({{ site.baseurl }}/assets/2022/03/NZ7_7168.jpg){: .centered width="600px"}
