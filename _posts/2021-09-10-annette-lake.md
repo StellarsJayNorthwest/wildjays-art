@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Annette Lake - September 2021
+title: Annette Lake
 date: 2021-09-10 12:00:00.000000000 -08:00
 categories: adventure hike
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Mason Lake - July 2021'
+title: 'Mason Lake'
 date: 2021-07-13 12:00:00.000000000 -08:00
 categories: adventure hike
 ---
