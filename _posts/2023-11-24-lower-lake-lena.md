@@ -35,12 +35,12 @@ It was an unseasonably warm day for November, and we stopped for snacks at the l
 Some mushrooms we saw along the trail.
 {: style="text-align:center"}
 
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/20231124/g1/NZ7_9578.jpg" alt="Mushroom">
   </div>
 </div>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/20231124/g1/NZ7_9579.jpg" alt="Mushroom">
   </div>

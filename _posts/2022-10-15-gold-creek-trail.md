@@ -23,12 +23,12 @@ We paused and stood quietly for a few moments. We heard the distinctive cheep of
 
 We spotted the pika about 30 yards away. He cheeped and posed handsomely for us. He even waited for me to switch to my long zoom lens, so we came home with some amazing pika portraits!
 
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_1528.jpg" alt="Pika">
   </div>
 </div>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_1538.jpg" alt="Pika">
   </div>
@@ -44,12 +44,12 @@ After our pika encounter, we continued a bit further on the trail and then turne
 
 Our hike ended with a walk around the perimeter of Gold Creek Pond. It was surprisingly beautiful with wildflowers, an island, and good views of the mountains across the pond.
 
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_1569.jpg" alt="Purple flowers">
   </div>
 </div>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_1564.jpg" alt="Blue flower closeup">
   </div>

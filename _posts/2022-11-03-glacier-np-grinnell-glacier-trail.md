@@ -13,12 +13,12 @@ With the Going to the Sun Road closed for the season, we decided to make the two
 *Grinnell Lake and Lake Josephine*
 
 <br>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2309.jpg" alt="Fall colors on the shore of Two Medicine Lake">
   </div>
 </div>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2295.jpg" alt="Sinopah Mountain and Two Medicine Lake">
   </div>
@@ -38,13 +38,13 @@ The ascent is fairly moderate until the last half mile, which is very steep. The
 ![Floating glacial ice in Upper Grinnell Lake]({{ site.baseurl }}/assets/2022/11/NZ7_2239-780x1024.jpg){: .centered width="400px"}
 *Floating glacial ice in Upper Grinnell Lake*
 
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2286.jpg" alt="Grinnell Lake at the foot of Angel Wing">
     <div class="description">Grinnell Lake at the foot of Angel Wing</div>
   </div>
 </div>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/PXL_20221011_182158237.jpg" alt="Upper Grinnell Lake">
     <div class="description">Upper Grinnell Lake</div>

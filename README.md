@@ -19,12 +19,12 @@ This is a Poor Man's gallery. The images needs to be the same size as I'm not ex
 
 Lightroom: Crop images to 4x6. Export using "Blog side by side 4x6 gallery".
 ```
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/20231124/g1/NZ7_9578.jpg" alt="Mushroom">
   </div>
 </div>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/20231124/g1/NZ7_9579.jpg" alt="Mushroom">
   </div>
@@ -32,6 +32,6 @@ Lightroom: Crop images to 4x6. Export using "Blog side by side 4x6 gallery".
 <div class="endgallery"></div>
 ```
 
-## Gallery instructions: three? images side-by-side
+## Gallery instructions: more than two images side-by-side
 
-TODO: Might be nice to have a three-banger gallery for portrait images but I haven't added the CSS for that yet.
+Use the same div example above but replace galleryouter2 with galleryouter3 or galleryouter4.
