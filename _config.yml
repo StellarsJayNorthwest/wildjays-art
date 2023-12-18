@@ -18,12 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Wild Jays - The Adventures of Two Jays (2)
+title: Wild Jays - The Adventures of Two Jays
 email: stellarsjaynorthwest@pobox.com
 description: >- # this means to ignore newlines until "baseurl:"
   This site is a project between two Jays: Jeff and Jenna. Here we
   share our adventures in the wilds through writing and photography. 
-baseurl: "" # the subpath of your site, e.g. /blog Note: had to leave blank to publish to wildjays.art for some reason!
+baseurl: "" # the subpath of your site, e.g. /blog | JJW: had to leave baseurl blank to publish to wildjays.art for some reason!
 url: "https://wildjays.art" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
