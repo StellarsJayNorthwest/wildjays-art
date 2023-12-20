@@ -27,6 +27,7 @@ baseurl: "" # the subpath of your site, e.g. /blog | JJW: had to leave baseurl b
 url: "https://wildjays.art" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
 github_username:
+timezone: "America/Los_Angeles"
 
 # Build settings.
 theme: minima
