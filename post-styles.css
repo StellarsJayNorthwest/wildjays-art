@@ -37,21 +37,59 @@ div.description {
   box-sizing: border-box;
 }
 
-.galleryouter {
+.galleryouter2 {
   padding: 0 3px;
   float: left;
   width: 49.99%;
 }
 
 @media only screen and (max-width: 700px) {
-  .galleryouter {
+  .galleryouter2 {
     width: 49.99%;
     margin: 3px 0;
   }
 }
 
 @media only screen and (max-width: 500px) {
-  .galleryouter {
+  .galleryouter2 {
+    width: 100%;
+  }
+}
+
+.galleryouter3 {
+  padding: 0 3px;
+  float: left;
+  width: 33.32%;
+}
+
+@media only screen and (max-width: 700px) {
+  .galleryouter3 {
+    width: 33.32%;
+    margin: 3px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .galleryouter3 {
+    width: 100%;
+  }
+}
+
+.galleryouter4 {
+  padding: 0 3px;
+  float: left;
+  width: 24.99%;
+}
+
+@media only screen and (max-width: 700px) {
+  .galleryouter4 {
+    width: 24.99%;
+    margin: 3px 0;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .galleryouter4 {
     width: 100%;
   }
 }

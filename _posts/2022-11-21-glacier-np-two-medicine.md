@@ -38,13 +38,13 @@ On the drive back to our cabin, we stopped at Cascadilla River Access to admire 
 
 ---
 <br>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2386.jpg" alt="Fall colors on the shore of Two Medicine Lake">
     <div class="description">Fall colors on the shore of Two Medicine Lake</div>
   </div>
 </div>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2022/11/NZ7_2374.jpg" alt="Sinopah Mountain and Two Medicine Lake">
     <div class="description">Sinopah Mountain and Two Medicine Lake</div>

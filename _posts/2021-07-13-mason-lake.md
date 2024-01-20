@@ -35,12 +35,12 @@ The trail skirts a boulder field where we hope to see a pika or at least hear it
 *Jeff at the edge of the boulder field*
 
 <br>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2021/07/NZ7_2677.jpg" alt="Yellow flower">
   </div>
 </div>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2021/07/NZ7_2705.jpg" alt="White flowering plants">
   </div>
@@ -54,12 +54,12 @@ At around 4000 feet, we reach a junction. The right fork leads to Little Bandera
 ![Jeff at the edge of the boulder field]({{ site.baseurl }}/assets/2021/07/NZ7_2691-1024x812.jpg){: .centered width="600px"}
 *Jeff at the edge of the boulder field*
 <br>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2021/07/NZ7_2693-1024x777.jpg" alt="Yellow flower">
   </div>
 </div>
-<div class="galleryouter">
+<div class="galleryouter2">
   <div class="galleryinner">
     <img src="{{ site.baseurl }}/assets/2021/07/NZ7_2707-1024x832.jpg" alt="White flowering plants">
   </div>
