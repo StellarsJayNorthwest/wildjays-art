@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 1: Fiery Furnace and Devil''s Garden'
+title: 'Utah Day 1: Fiery Furnace and Devil''s Garden'
 date: 2022-03-30 13:25:27.000000000 -07:00
 categories: adventure hike
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 2: Island in the Sky'
+title: 'Utah Day 2: Island in the Sky'
 date: 2022-04-07 07:07:49.000000000 -07:00
 categories: adventure hike
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Day 3: Delicate Arch, The Windows, Corona Arch'
+title: 'Utah Day 3: Delicate Arch, The Windows, Corona Arch'
 date: 2022-05-03 14:51:59.000000000 -07:00
 categories: adventure hike
 ---
