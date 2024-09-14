@@ -9,6 +9,7 @@ The old version is sort of working (admin is borked): at https://wildjaysblog.az
 ## Local edit instructions
 - Open WSL
 - Run code from WSL to open the repo directory: code repos/wildjays-art
+- Important: Use enlistment under WSL user directory - do not open Windows file system enlistment!
 - From the VS Code terminal: bundle exec jekyll serve --livereload
 - Use git from within VS Code (UI or terminal) for easier authentication
 - Push to master to publish!
