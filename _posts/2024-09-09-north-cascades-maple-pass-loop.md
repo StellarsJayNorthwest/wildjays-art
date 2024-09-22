@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'North Cascades: Maple Pass Loop'
-date: 1824-09-09 12:00:00.000000000 -08:00
+date: 2024-09-09 12:00:00.000000000 -08:00
 categories: adventure hike
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/post-styles.css">
