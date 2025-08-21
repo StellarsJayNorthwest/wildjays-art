@@ -16,7 +16,7 @@ If you begin the hike from Saksun, you’re greeted with sweeping views of the f
 {: style="text-align:center"}
 ![Tjørnuvík with Risin og Kellingin in the distance]({{ site.baseurl }}/assets/2025-faroe-iceland/20250722/DSC_6780.jpg){: .centered width="650px"}
 
-We began our day in Saksun, a village first recorded in the 1400s, though it’s likely older than that. Nestled in a natural amphitheater on the northwest coast, Saksun is encircled by towering basalt ridges. The River Dalsá cuts through the village toward the sea, where volcanic black sand marks the entrance to the lagoon. Turf-roofed houses dot the green hillsides, and the stands watch from a cliff above the harbor. Originally built in Tjørnuvík, the church was disassembled and carried along the cairn-marked path to Saksun in 1858—a feat of endurance that makes me wonder how the villagers in Tjørnuvík felt about the loss of their house of worship.
+We began our day in Saksun, a village first recorded in the 1400s, though it’s likely older than that. Nestled in a natural amphitheater on the northwest coast, Saksun is encircled by towering basalt ridges. The River Dalsá cuts through the village toward the sea, where volcanic black sand marks the entrance to the lagoon. Turf-roofed houses dot the green hillsides, and the churchs stands watch from a cliff above the harbor. Originally built in Tjørnuvík, the church was disassembled and carried along the cairn-marked path to Saksun in 1858—a feat of endurance that makes me wonder how the villagers in Tjørnuvík felt about the loss of their house of worship.
 
 {: style="text-align:center"}
 ![The church at Saksun]({{ site.baseurl }}/assets/2025-faroe-iceland/20250722/NZ7_6921.jpg){: .centered width="650px"}
@@ -26,7 +26,7 @@ From Saksun, we drove toward Tjørnuvík, a journey of about 40 minutes through 
 {: style="text-align:center"}
 ![Fossá Waterfall]({{ site.baseurl }}/assets/2025-faroe-iceland/20250722/DSC_6799.jpg){: .centered width="650px"}
 
-Tjørnuvík itself is a picturesque village nestled between steep cliffs and facing the Sundini Strait. We opted not to do the full ten-mile round-trip hike—the weather was dodgy—but we set out from the Tjørnuvík side, beginning at the southern edge of the village near the black sand beach. The trail climbs steeply at first, past villagers haying in narrow fields tucked behind the turf-shod homes. As we passed sheep grazing on precarious ledges, we hoped for a break in the weather. The cairns led us into the highlands, where mist awaited—obscuring the path. We turned back, content with the dramatic views of the sea stacks on our descent. 
+Tjørnuvík itself is a picturesque village nestled between steep cliffs and facing the Sundini Strait. We opted not to do the full ten-mile round-trip hike—the weather was dodgy—but we set out from the Tjørnuvík side, beginning at the southern edge of the village near the black sand beach. The trail climbed steeply at first, past villagers haying in narrow fields tucked behind the turf-shod homes. As we passed sheep grazing on precarious ledges, we hoped for a break in the weather. The cairns led us into the highlands, where mist awaited—obscuring the path. We turned back, content with the dramatic views of the sea stacks on our descent. 
 
 {: style="text-align:center"}
 ![A sheep with Risin og Kellingin in the distance]({{ site.baseurl }}/assets/2025-faroe-iceland/20250722/DSC_6718.jpg){: .centered width="650px"}
