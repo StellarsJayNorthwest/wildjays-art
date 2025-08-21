@@ -26,11 +26,21 @@ div.galleryinner img {
   height: auto;
 }
 
+/* Description for gallery images. */
 div.description {
   padding: 1px;
   text-align: center;
   font-size: smaller;
   font-style: italic;
+}
+
+/* Description for single images inline in a blog post. */
+div.descriptioninline {
+  text-align: center;
+  font-size: smaller;
+  font-style: italic;
+  margin-bottom: 0.75em;
+  margin-top: 0.25em;
 }
 
 * {
