@@ -20,13 +20,13 @@ We returned through the intimidating Gásadalstunnilin, the one-lane tunnel that
 ![Colorful boathouses in Sørvágur]({{ site.baseurl }}/assets/2025-faroe-iceland/20250723/DSC_6900.jpg){: .centered width="650px"}
 <div class="descriptioninline">Colorful boathouses in Sørvágur</div>
 
-The tour lets you out on a rocky shoreline opposite Drangarnir, a peninsula that juts from the mainland. It’s privately owned, so visitors must stay on the headland. We climbed the steep slope for views of the sea arch, which appears in How to Train Your Dragon (2025). Tindhólmur, a dramatic islet shaped like half a mountain, was obscured by fog, but our guide described its five sharp peaks and its role as a nesting site for seabirds.
+The tour lets you out on a rocky shoreline opposite Drangarnir, a peninsula that juts from the mainland. It’s privately owned, so visitors must stay on the headland. We climbed the steep slope for views of the sea arch, which appears in *How to Train Your Dragon* (2025). Tindhólmur, a dramatic islet shaped like half a mountain, was obscured by fog, but our guide described its five sharp peaks and its role as a nesting site for seabirds.
 
 {: style="text-align:center"}
 ![Drangarnir]({{ site.baseurl }}/assets/2025-faroe-iceland/20250723/NZ7_7018.jpg){: .centered width="650px"}
 <div class="descriptioninline">Drangarnir</div>
 
-We closed out the day with lunch at Fiskastykkið Café in Sandavágur. The name refers to the stone-paved fish drying area where salted cod (bacalao) was once laid out to cure in the sea breeze—a nod to the village’s fishing heritage. After lunch, we hiked to Trøllkonufingur, or Witch’s Finger, a sea stack steeped in folklore. Legend says a witch tried to throw the Faroe Islands to Iceland, but as she reached the sea near Vágar, the sun rose and turned her to stone. She fell into the ocean, face down—her finger became Trøllkonufingur, and the back of her head became the island of Koltur.
+We ate lunch at Fiskastykkið Café in Sandavágur. The name refers to the stone-paved fish drying area where salted cod (bacalao) was once laid out to cure in the sea breeze—a nod to the village’s fishing heritage. After lunch, we hiked to Trøllkonufingur, or Witch’s Finger, a sea stack steeped in folklore. Legend says a witch tried to throw the Faroe Islands to Iceland, but as she reached the sea near Vágar, the sun rose and turned her to stone. She fell into the ocean, face down—her finger became Trøllkonufingur, and the back of her head became the island of Koltur.
 
 {: style="text-align:center"}
 ![Trøllkonufingur (Witch’s Finger)]({{ site.baseurl }}/assets/2025-faroe-iceland/20250723/NZ7_7260.jpg){: .centered width="650px"}
