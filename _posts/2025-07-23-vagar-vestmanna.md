@@ -49,7 +49,7 @@ On the way back to Tórshavn, we stopped in Kvívík, one of the oldest settleme
 We also stopped in at the lovely Kvívíknit store to buy local yarn and mittens woven by a collective of islanders.
 
 {: style="text-align:center"}
-![Yarn for sale in Kvívíknit]({{ site.baseurl }}/assets/2025-faroe-iceland/20250723/NZ7_7644.jpg){: .centered width="650px"}
+![Faroese yarn for sale in Kvívíknit]({{ site.baseurl }}/assets/2025-faroe-iceland/20250723/NZ7_7644.jpg){: .centered width="650px"}
 <div class="descriptioninline">Yarn for sale in Kvívíknit</div>
 <br>
 {: style="text-align:center"}
