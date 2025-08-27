@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Faroe Islands Day 6: Sun in the Northern Isles'
-date: 1900-07-24 12:00:00.000000000 -08:00
+date: 2025-07-24 12:00:00.000000000 -08:00
 categories: adventure hike
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/post-styles.css">
