@@ -40,8 +40,8 @@ After two short but steep hikes, we were ready for some relaxing time in Tórsha
 
 {: style="text-align:center"}
 ![View from the Klakkur summit]({{ site.baseurl }}/assets/2025-faroe-iceland/20260724/DSC_7131.jpg){: .centered width="650px"}
-<div class="descriptioninline">View from the Klakkur summit</div>
+<div class="descriptioninline">The southern tip of Kalsoy from Klakkur</div>
 
 {: style="text-align:center"}
 ![Another view from the Klakkur summit]({{ site.baseurl }}/assets/2025-faroe-iceland/20260724/PXL_20250725_130532509.MP.jpg){: .centered width="650px"}
-<div class="descriptioninline">Another view from the Klakkur summit</div>
+<div class="descriptioninline">Looking up the length of Kalsoy from Klakkur</div>
