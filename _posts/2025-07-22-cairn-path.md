@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Faroe Islands Day 3: A Cairn-Marked Path'
+title: 'Faroe Islands: A Cairn-Marked Path'
 date: 2025-07-22 12:00:00.000000000 -08:00
 categories: adventure hike
 ---
