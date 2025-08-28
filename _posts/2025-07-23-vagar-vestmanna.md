@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Faroe Islands Days 4-5: Vágar and Vestmanna'
+title: 'Faroe Islands: Vágar and Vestmanna'
 date: 2025-07-23 12:00:00.000000000 -08:00
 categories: adventure hike
 ---
