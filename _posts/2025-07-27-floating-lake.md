@@ -40,8 +40,8 @@ Later, we drove to the village of Kirkjubøur, which sits on a narrow coastal sh
 We ended our last full day in the Faroe Islands at Tjóðsavnið, the national museum, where the intricate Kirkjubøur Chairs—likely made for St. Magnus Cathedral—are now back home after more than a century in Copenhagen. We also enjoyed seeing stone tools unearthed in Kvívík and combs, beads, and iron tools from Viking-age graves on Sandoy Island. 
 
 {: style="text-align:center"}
-![Detail in the cathedral at Kirkjubøur]({{ site.baseurl }}/assets/2025-faroe-iceland/20250726/NZ7_8073.jpg){: .centered width="650px"}
-<div class="descriptioninline">Detail in the cathedral at Kirkjubøur</div>
+![Stonework in the cathedral at Kirkjubøur]({{ site.baseurl }}/assets/2025-faroe-iceland/20250726/NZ7_8073.jpg){: .centered width="650px"}
+<div class="descriptioninline">Stonework in the cathedral at Kirkjubøur</div>
 
 Tomorrow, we would head to Iceland. Our “puffincore” visit to Faroe Islands had been unforgettable: 8 islands, scores of sea birds, over fifty miles of hiking, many fish dinners, four boat tours, and several rhubarb cocktails. We would like to return and climb Slættaratindur or make the trek from Saksun to Tjørnuvík. And finally set eyes on the elusive sea cliff, Beinisvørð. 
 
