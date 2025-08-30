@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Faroe Islands: Illusions and Cathedrals'
-date: 1900-07-26 12:00:00.000000000 -08:00
+date: 1900-07-27 12:00:00.000000000 -08:00
 categories: adventure hike
 ---
 <link rel="stylesheet" href="{{ site.baseurl }}/post-styles.css">
