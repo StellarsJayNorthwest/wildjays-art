@@ -4,5 +4,13 @@
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-  gtag('config', 'G-9CZRRHG182');
+
+  {% if jekyll.environment == "production" %}
+    // Production: normal pageviews
+    gtag('config', 'G-9CZRRHG182');
+  {% else %}
+    // Development (localhost): disable automatic pageviews but allow debug events
+    // Test using F12 console: gtag('event', 'test_event');
+    gtag('config', 'G-9CZRRHG182', { 'send_page_view': false, 'debug_mode': true });
+  {% endif %}
 </script>
