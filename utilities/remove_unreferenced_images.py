@@ -1,3 +1,8 @@
+"""
+Run this script from the root of the repository to delete all unused images.
+python utilities/remove_unreferenced_images.py
+"""
+
 import os
 import re
 from pathlib import Path
